@@ -1,6 +1,6 @@
 # Alura-HZC
 
-:book: Criando site fictio com display grid e flex
+:book: Criando site fictício com display grid e flex
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://barbearia-alura-gm7y0x3ol-lucaslkj.vercel.app/index.html">aqui</a>
