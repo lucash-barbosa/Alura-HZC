@@ -5,7 +5,7 @@
 :book: Projeto criado durante o curso de flex e grid Alura
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://alura-acah08udw-lucaslkj.vercel.app/index.html">aqui</a>
+É possivel acessar o site <a href="https://alura-h3r3d7evh-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/lucash-barbosa/Alura-HZC/archive/refs/heads/master.zip">baixá-lo</a>
 
 ## Referências
