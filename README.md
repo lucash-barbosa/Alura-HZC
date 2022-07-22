@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&style=flat-square&logo=appveyor&down_message=offline&label=STATUS&logo=STATUS&style=for-the-badge&up_message=FINALIZADO&url=https%3A%2F%2Fshields.io)
 
-:book: Projeto criado durante o curso de flex e grid Alura
+:book: Projeto criado durante o curso de CSS: dispondo elementos com Flexbox e Grid da Alura
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://alura-h3r3d7evh-lucaslkj.vercel.app/">aqui</a>
